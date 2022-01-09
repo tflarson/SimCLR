@@ -7,7 +7,7 @@ Some modest benchmarks so far, following 50 epochs of SimCLR training:
 63% validation accuracy on CIFAR-10 when only using 1% labeled data
 (with frozen feature net)
 
-37% top-1 classification on CIFAR-100 (with frozen feature net
+37% top-1 classification on CIFAR-100 (with frozen feature net)
 
 Implementation of SimCLR adapted from implementations at 
 https://github.com/Spijkervet/SimCLR
